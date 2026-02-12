@@ -8,7 +8,8 @@ Solar® — The free game server control panel for users, networks, and game ser
 Step 1: ```git clone https://github.com/dhwajhome26-rgb/SolarPanel.git```
 
 ***Go To https://one.dash.cloudflare.com/networks/connectors And Make New Terminal And Connect Your CloudFlare Tunnel With Your VPS*** 
- [ Domain Requird ]
+
+[ Domain Requird ]
 
 Step 2: ```cd SolarPanel```
 
