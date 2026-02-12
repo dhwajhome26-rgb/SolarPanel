@@ -9,7 +9,7 @@ Step 1: ```git clone https://github.com/dhwajhome26-rgb/SolarPanel.git```
 
 # CloudFlare - Part 2
 
-Step 2: mkdir docker
+Step 2: ```mkdir docker```
 
 Step 3: ```cd docker``` **Install Connector And Run It**
 
