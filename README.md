@@ -13,6 +13,8 @@ Step 2: ```mkdir docker```
 
 **Go To https://one.dash.cloudflare.com/networks/connectors And Make New Terminal And Connect Your CloudFlare Tunnel With Your VPS**
 
+Step 3: ```cd SolarPanel```
+
 Step 3: ```cd docker``` **Install Connector And Run It** 
 
 [ Domain Requird ]
