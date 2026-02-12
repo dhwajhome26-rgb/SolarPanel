@@ -10,7 +10,7 @@ Step 1: ```gh repo clone dhwajhome26-rgb/SolarPanel```
 Step 2 ```bash solar-install.sh```
 
 =================================
-        🌞 SOLAR PANEL
+         🌞 SOLAR PANEL
 =================================
 
 ( 1 ) Install Solar Panel (Solar + Blueprint + Nebula)
