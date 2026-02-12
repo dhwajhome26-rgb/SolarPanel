@@ -8,6 +8,7 @@ Solar® — The free game server control panel for users, networks, and game ser
 Step 1: ```git clone https://github.com/dhwajhome26-rgb/SolarPanel.git```
 
 # CloudFlare - Part 2
+[ Domain Requird ]
 
 Step 2: ```mkdir docker```
 
@@ -15,9 +16,9 @@ Step 2: ```mkdir docker```
 
 Step 3: ```cd SolarPanel```
 
-Step 3: ```cd docker``` **Install Connector And Run It** 
+Step 3: ```cd docker``` **Install Connector And Run It**
 
-[ Domain Requird ]
+Now Your Tunnel Connected Go SolarPanel Terminal And Run
 
 Step 4: ```cd SolarPanel```
 
