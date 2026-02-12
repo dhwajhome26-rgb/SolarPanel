@@ -11,16 +11,16 @@ Step 1: ```git clone https://github.com/dhwajhome26-rgb/SolarPanel.git```
 
 Step 2: ```mkdir docker```
 
-Step 3: ```cd docker``` **Install Connector And Run It**
+**Go To https://one.dash.cloudflare.com/networks/connectors And Make New Terminal And Connect Your CloudFlare Tunnel With Your VPS**
 
-**Go To https://one.dash.cloudflare.com/networks/connectors And Make New Terminal And Connect Your CloudFlare Tunnel With Your VPS** 
+Step 3: ```cd docker``` **Install Connector And Run It** 
 
 [ Domain Requird ]
 
-Step 2: ```cd SolarPanel```
+Step 4: ```cd SolarPanel```
 
-Step 3 ```bash solar-install.sh```
+Step 5 ```bash solar-install.sh```
 
-Step 4 ```Select Number```
+Step 6 ```Select Number```
 
 💻 Your Panel / Wings Is Ready For Make Servers
