@@ -5,7 +5,7 @@ Solar® — The free game server control panel for users, networks, and game ser
 
 # SolarPanel SetUP
 
-Step 1: ```gh repo clone dhwajhome26-rgb/SolarPanel```
+Step 1: ```[gh repo clone dhwajhome26-rgb/SolarPanel](https://github.com/dhwajhome26-rgb/SolarPanel.git)```
 
 Step 2 ```bash solar-install.sh```
 
