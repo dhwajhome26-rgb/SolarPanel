@@ -3,7 +3,7 @@
 
 **Made By DhwaJ_XD**
 
-## Installation
+## 💻 Panel Installation
 1. Clone The Repository Or Download:
 `git clone https://github.com/teryxlabs/v4panel`
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Daemon Installation
+## ⛓️‍💥 Daemon Installation
 1. Clone the repository:
 `git clone https://github.com/dragonlabsdev/daemon`
 
