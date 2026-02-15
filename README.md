@@ -1,5 +1,5 @@
 
-<h1 align="center">🌞 SolarPanel</h1>
+<h1 align="left">🌞 SolarPanel</h1>
 
 **Made By DhwaJ_XD**
 
