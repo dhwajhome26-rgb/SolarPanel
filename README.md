@@ -1,6 +1,6 @@
 
-<h1 align="center">SolarPanel</h1>
-## Overview
+<h1 align="center">🌞 SolarPanel</h1>
+## Made By DhwaJXD
 
 ## Installation
 1. Clone The Repository Or Download:
