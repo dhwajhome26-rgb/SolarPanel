@@ -22,10 +22,6 @@
 6. Start The Panel:
 `node . # Or Use pm2 To Keep It Online`
 
-
-## License
-(c) 2025 DhwaJXD . This software is licensed under the MIT License.
-
 ---
 
 ## Daemon Installation
