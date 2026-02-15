@@ -1,5 +1,6 @@
 
 <h1 align="center">🌞 SolarPanel</h1>
+
 **Made By DhwaJ_XD**
 
 ## Installation
