@@ -29,6 +29,9 @@
 Make New Terminal For [ Node Connect - Daemon SETUP ]
 
 1. Go To Panel Directory:
+`cd SolarPanel`
+
+1. Go To Panel Directory:
 `cd daemon`
 
 2. Install Some Importent:
