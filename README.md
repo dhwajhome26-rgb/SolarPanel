@@ -26,21 +26,20 @@
 ---
 
 ## ⛓️‍💥 Daemon Installation
-1. Clone the repository:
-`git clone https://github.com/dragonlabsdev/daemon`
+Make New Terminal For [ Node Connect - Daemon SETUP ]
 
-2. go to panel directory:
+2. Go To Panel Directory:
 `cd daemon`
 
-3. Install some importent:
+3. Install Some Importent:
 `apt install zip -y && unzip daemon.zip && cd daemon`
 
-5. Install dependencies:
+5. Install Dependencies:
 `npm install`
 
 6. How To Get Node Configure:
 - Go To Node Section Make One Node And Click Configure [ Copy Your Configure And Paste Daemon Terminal ]
 
-7. Start the Daemon:
+7. Start The Daemon:
 `node . # or use pm2 to keep it online`
 
