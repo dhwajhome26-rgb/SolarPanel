@@ -36,9 +36,6 @@ Make New Terminal For [ Node Connect - Daemon SETUP ]
 2. Go To Panel Directory:
 `cd SolarPanel`
 
-3. Go To Panel Directory:
-`cd daemon.zip`
-
 4. Install Some Importent:
 `apt install zip -y && unzip daemon.zip && cd daemon`
 
