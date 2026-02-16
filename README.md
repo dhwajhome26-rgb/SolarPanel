@@ -30,21 +30,24 @@ Smooth Animation And Premium LOOK - By DhwaJXD [ 👻 Our Features / Themes Comi
 ## ⛓️‍💥 Daemon Installation
 Make New Terminal For [ Node Connect - Daemon SETUP ]
 
-1. Go To Panel Directory:
-`cd SolarPanel`
+1. Go To Installer Directory:
+`cd Panel-Installer`
 
 2. Go To Panel Directory:
+`cd SolarPanel`
+
+3. Go To Panel Directory:
 `cd daemon.zip`
 
-3. Install Some Importent:
+4. Install Some Importent:
 `apt install zip -y && unzip daemon.zip && cd daemon`
 
-4. Install Dependencies:
+5. Install Dependencies:
 `npm install`
 
-5. How To Get Node Configure:
+6. How To Get Node Configure:
 - Go To Node Section Make One Node And Click Configure [ Copy Your Configure And Paste Daemon Terminal ] Settings: Germany - 127.0.0.1 - Your VPS According
 
-6. Start The Daemon:
+7. Start The Daemon:
 `node . # or use pm2 to keep it online`
 
