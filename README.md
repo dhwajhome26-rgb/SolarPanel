@@ -43,7 +43,7 @@ Make New Terminal For [ Node Connect - Daemon SETUP ]
 `npm install`
 
 5. Paste Your Node Configure - How To Get Node Configure:
-- Go To Node Section Make One Node And Click Configure [ Copy Your Configure And Paste Daemon Terminal ] Settings: Germany - 127.0.0.1 - Your VPS According
+`- Go To Node Section Make One Node And Click Configure [ Copy Your Configure And Paste Daemon Terminal ] Settings: Germany - 127.0.0.1 - Your VPS According`
 
 6. Start The Daemon:
 `node . # or use pm2 to keep it online`
