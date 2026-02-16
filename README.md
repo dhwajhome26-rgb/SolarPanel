@@ -2,6 +2,7 @@
 <h1 align="left">🌞 SolarPanel</h1>
 
 **Made By DhwaJ_XD**
+
 Smooth Animation And Premium LOOK - By DhwaJXD [ 👻 Our Features / Themes Coming Soon ]
 
 ## 💻 Panel Installation
