@@ -13,16 +13,16 @@ Smooth Animation And Premium LOOK - By DhwaJXD [ 👻 Our Features / Themes Comi
 
 `apt-get install nodejs git`
 
-3. Go To panel Directory:
+2. Go To panel Directory:
 `cd SolarPanel`
 
-4. Install Some Importent:
+3. Install Some Importent:
 `apt install zip -y && unzip panel.zip`
 
-5. Install Dependencies:
+4. Install Dependencies:
 `npm install && npm run seed && npm run createUser`
 
-6. Start The Panel:
+5. Start The Panel:
 `node . # Or Use pm2 To Keep It Online`
 
 ---
@@ -36,15 +36,15 @@ Make New Terminal For [ Node Connect - Daemon SETUP ]
 2. Go To Panel Directory:
 `cd SolarPanel`
 
-4. Install Some Importent:
+3. Install Some Importent:
 `apt install zip -y && unzip daemon.zip && cd daemon`
 
-5. Install Dependencies:
+4. Install Dependencies:
 `npm install`
 
-6. How To Get Node Configure:
+5. How To Get Node Configure:
 - Go To Node Section Make One Node And Click Configure [ Copy Your Configure And Paste Daemon Terminal ] Settings: Germany - 127.0.0.1 - Your VPS According
 
-7. Start The Daemon:
+6. Start The Daemon:
 `node . # or use pm2 to keep it online`
 
